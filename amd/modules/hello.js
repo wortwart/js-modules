@@ -1,0 +1,1 @@
+define({text: 'Hallo, Modul 2!'});

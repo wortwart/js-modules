@@ -1,0 +1,1 @@
+self.hello = 'Hallo, Modul 2!';

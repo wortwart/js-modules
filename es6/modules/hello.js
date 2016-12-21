@@ -1,0 +1,1 @@
+export default 'Hallo, Modul 2!';
